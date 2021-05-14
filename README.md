@@ -55,8 +55,8 @@ const f3rjara = {
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=f3rjara&theme=monokai-metallian&hide_border=true"/>
-  </a>
+    <img alt="DenverCoder1's streak" src="http://github-readme-streak-stats.herokuapp.com?user=f3rjara&theme=tokyonight_duo"/>
+  </a>  
 </p>
 <p align="center">
 <a href="https://github.com/f3rjara">
