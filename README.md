@@ -30,9 +30,9 @@ I take great care of the experience, the quality of the code of the things I bui
 
 ```javascript
 const f3rjara = {
-  fillName: "Fernando Jaramillo",
+  fullName: "Fernando Jaramillo",
   professional: "Licenciatura en Informática",
-  contacr: "f3rjara@gmail.com"
+  contact: "f3rjara@gmail.com"
   skills : [ 'Javascript', 'Typescript', 'Html', 'Css', 'Php', 'Jquery', 'Liquid', 'Node'],
   framework: [ 'Angular', 'Laravel', 'Express', 'CodeIgniter' ] ,
   tools: [ 'Styled-Components', 'Docker', 'Shopify', 'Wordpress' ]
