@@ -30,22 +30,27 @@ I take great care of the experience, the quality of the code of the things I bui
 
 ```javascript
 const f3rjara = {
-  pronouns: "he" | "him",
-  code: [ Javascript, Typescript, Html, Css, Php, Jquery, Liquid ],
-  tools: [ Angular, Node, Storybook, Styled-Components, Docker, Shopify, Wordpress] ,
-  architecture: [ "microservices", "CI-CD", "Consume API" ],
+  fillName: "Fernando Jaramillo",
+  professional: "Licenciatura en Informática",
+  contacr: "f3rjara@gmail.com"
+  skills : [ 'Javascript', 'Typescript', 'Html', 'Css', 'Php', 'Jquery', 'Liquid', 'Node'],
+  framework: [ 'Angular', 'Laravel', 'Express', 'CodeIgniter' ] ,
+  tools: [ 'Styled-Components', 'Docker', 'Shopify', 'Wordpress' ]
+  architecture: [ "Microservices", "CI-CD", "Consume API" ],
   workExperience: [
       {
         company: "Sigma - Branch Blue",
-        duration: "9 months",
+        duration: "10 months",
         position: "Web developer",
-        city: "Medellín"
+        city: "Medellín",
+        country: "Colombia"
       },
       {
         company: "PlayTIC",
         duration: "1 Year",
         position: "FrontEnd developer",
-        city: "Pasto"
+        city: "Pasto",
+        country: "Colombia"
       }
   ]
 }
