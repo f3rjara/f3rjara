@@ -32,10 +32,10 @@ I take great care of the experience, the quality of the code of the things I bui
 const f3rjara = {
   fullName: "Fernando Jaramillo",
   professional: "Licenciatura en Informática",
-  contact: "f3rjara@gmail.com"
+  contact: "f3rjara@gmail.com",
   skills : [ 'Javascript', 'Typescript', 'Html', 'Css', 'Php', 'Jquery', 'Liquid', 'Node'],
   framework: [ 'Angular', 'Laravel', 'Express', 'CodeIgniter' ] ,
-  tools: [ 'Styled-Components', 'Docker', 'Shopify', 'Wordpress' ]
+  tools: [ 'Styled-Components', 'Docker', 'Shopify', 'Wordpress' ],
   architecture: [ "Microservices", "CI-CD", "Consume API" ],
   workExperience: [
       {
