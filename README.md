@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.twitch.tv/f3rjara">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" />
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/f3rjara/f3rjara/main/img/twitch-logo.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=f3rjara)
