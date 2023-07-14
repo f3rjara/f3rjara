@@ -8,13 +8,10 @@ You can click the Preview link to take a look at your changes.
   <img align="left" alt="Visita mi Discord! | @f3rjara 👋" width="26px" src="https://raw.githubusercontent.com/f3rjara/f3rjara/main/img/discord-v2-svgrepo-com.svg" />
 </a>
 
-<a href="https://discord.gg/kezF8duh" target="_blank" title="Visita mi Discord! | @f3rjara 👋">
-  <img src="https://raw.githubusercontent.com/f3rjara/f3rjara/main/img/discord-v2-svgrepo-com.svg" alt="Visita mi Discord! | @f3rjara" width="26" style="vertical-align:middle">
-</a>
-
 <a href="https://twitter.com/f3rjara" target="_blank" title="Visita mi Twitter! | @f3rjara 👋">
   <img align="left" alt="Visita mi Twitter! | @f3rjara 👋"  width="26px" src="https://raw.githubusercontent.com/f3rjara/f3rjara/main/img/twitter-svgrepo-com.svg" />
 </a>
+
 <a href="https://www.linkedin.com/in/f3rjara/" target="_blank" title="Visita mi Linkedin! | @f3rjara 👋" >
   <img align="left" alt="Visita mi Linkedin! | @f3rjara 👋"  width="26px" src="https://raw.githubusercontent.com/f3rjara/f3rjara/main/img/linkedin-1-svgrepo-com.svg" />
 </a>
