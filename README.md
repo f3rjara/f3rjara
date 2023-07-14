@@ -46,7 +46,7 @@ const f3rjara = {
       duration: "4 Meses",
       position: "Frontend Developer",
       city: "Medellín",
-      country: "Colombia"
+      country: "Colombia",
       year: 2023
     },
     {  
@@ -54,7 +54,7 @@ const f3rjara = {
       duration: "12 Meses",
       position: "Software Developer",
       city: "Medellín",
-      country: "Colombia"
+      country: "Colombia",
       year: 2022
     },
     {
@@ -62,7 +62,7 @@ const f3rjara = {
       duration: "25 Meses",
       position: "Web Developer",
       city: "Medellín",
-      country: "Colombia"
+      country: "Colombia",
       year: 2020
     },
     {
@@ -70,7 +70,7 @@ const f3rjara = {
       duration: "18 Mses",
       position: "Full Stack Developer",
       city: "Pasto",
-      country: "Colombia"
+      country: "Colombia",
       year: 2018
     }
   ]
