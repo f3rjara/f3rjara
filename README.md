@@ -4,17 +4,17 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Hey there!
-<a href="https://discord.gg/kezF8duh">
-  <img align="left" alt="Visita mi Discord! | @f3rjara 👋" title="Visita mi Discord! | @f3rjara 👋" width="26px" src="https://raw.githubusercontent.com/f3rjara/f3rjara/main/img/discord-v2-svgrepo-com.svg" />
+<a href="https://discord.gg/kezF8duh" target="_blank" title="Visita mi Discord! | @f3rjara 👋" >
+  <img align="left" alt="Visita mi Discord! | @f3rjara 👋" width="26px" src="https://raw.githubusercontent.com/f3rjara/f3rjara/main/img/discord-v2-svgrepo-com.svg" />
 </a>
-<a href="https://twitter.com/f3rjara">
-  <img align="left" alt="Visita mi Twitter! | @f3rjara 👋" title="Visita mi Twitter! | @f3rjara 👋" width="26px" src="https://raw.githubusercontent.com/f3rjara/f3rjara/main/img/twitter-svgrepo-com.svg" />
+<a href="https://twitter.com/f3rjara" target="_blank" title="Visita mi Twitter! | @f3rjara 👋">
+  <img align="left" alt="Visita mi Twitter! | @f3rjara 👋"  width="26px" src="https://raw.githubusercontent.com/f3rjara/f3rjara/main/img/twitter-svgrepo-com.svg" />
 </a>
-<a href="https://www.linkedin.com/in/f3rjara/">
-  <img align="left" alt="Visita mi Linkedin! | @f3rjara 👋" title="Visita mi Linkedin! | @f3rjara 👋"  width="26px" src="https://raw.githubusercontent.com/f3rjara/f3rjara/main/img/linkedin-1-svgrepo-com.svg" />
+<a href="https://www.linkedin.com/in/f3rjara/" target="_blank" title="Visita mi Linkedin! | @f3rjara 👋" >
+  <img align="left" alt="Visita mi Linkedin! | @f3rjara 👋"  width="26px" src="https://raw.githubusercontent.com/f3rjara/f3rjara/main/img/linkedin-1-svgrepo-com.svg" />
 </a>
-<a href="https://www.twitch.tv/f3rjara">
-  <img align="left" alt="Visita mi Twitch! | @f3rjara 👋" title="Visita mi Twitch! | @f3rjara 👋" width="26px" src="https://raw.githubusercontent.com/f3rjara/f3rjara/main/img/twitch-v2-svgrepo-com.svg" />
+<a href="https://www.twitch.tv/f3rjara" target="_blank" title="Visita mi Twitch! | @f3rjara 👋">
+  <img align="left" alt="Visita mi Twitch! | @f3rjara 👋"  width="26px" src="https://raw.githubusercontent.com/f3rjara/f3rjara/main/img/twitch-v2-svgrepo-com.svg" />
 </a>
 
 <span>![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ff3rjara%2Ff3rjara&label=%C3%9Altimos%20visitantes&countColor=%23d9e3f0&style=plastic&labelStyle=lower)</span>
