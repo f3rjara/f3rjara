@@ -30,7 +30,7 @@ Mi pasión por el software radica en imaginar ideas y darles vida con interfaces
 ```javascript
 const f3rjara = {
   fullName: "Fernando Jaramillo",
-  role: "FrontEnd Developer | Angular"
+  role: "FrontEnd Developer | Angular",
   professional: "Licenciatura en Informática | Universidad de Nariño",
   description: "Soy un desarrollador web dedicado y orientado a los detalles con una pasión por crear experiencias de usuario perfectas.",
   contact: "f3rjara@gmail.com",
