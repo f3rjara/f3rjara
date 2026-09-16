@@ -24,58 +24,80 @@ You can click the Preview link to take a look at your changes.
 
 <h1> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ¡Ey! Me alegro de verte.</h1>
 
-Soy Fernando Jaramillo, un apasionado desarrollador web FrontEnd autodidacta y desarrollador independiente de Colombia. <img src="https://raw.githubusercontent.com/joielechong/iso-country-flags-svg-collection/master/svg/country-4x3/co.svg" width="13"/>.
-Mi pasión por el software radica en imaginar ideas y darles vida con interfaces elegantes. Presto mucha atención a la experiencia del usuario, la calidad del código y los detalles finos para garantizar que todo encaje a la perfección
+# 👋 Soy Fernando Jaramillo
 
-<hr>
+**Ingeniero de Software · Frontend · Angular**
 
-```javascript
+Construyo experiencias web con especial interés en **arquitectura frontend, experiencia de usuario y calidad de código**.
+
+🇨🇴 Colombia · 🏦 Bancolombia
+
+[🌐 fernando-jaramillo.com](https://fernando-jaramillo.com) · [💼 LinkedIn](https://www.linkedin.com/in/f3rjara/) · [🐙 GitHub](https://github.com/f3rjara)
+
+---
+
+## ⚡ En qué estoy trabajando
+
+```ts
 const f3rjara = {
-  fullName: "Fernando Jaramillo",
-  role: "FrontEnd Developer | Angular",
-  professional: "Licenciatura en Informática | Universidad de Nariño",
-  description: "Soy un desarrollador web dedicado y orientado a los detalles con una pasión por crear experiencias de usuario perfectas.",
-  contact: "f3rjara@gmail.com",
-  skills: ['Javascript', 'Typescript', 'HTML', 'CSS', 'PHP', 'jQuery', 'Liquid', 'Node'],
-  frameworks: ['Angular', 'React', 'Laravel', 'Express', 'CodeIgniter'],
-  tools: ['Styled-Components', 'Docker', 'Shopify', 'WordPress'],
-  architecture: ["Microservices", "CI/CD", "API Consumption"],
-  workExperience: [
-    {  
-      company: "Bancolombia",
-      duration: "4 Meses",
-      position: "Frontend Developer",
-      city: "Medellín",
-      country: "Colombia",
-      year: 2023
-    },
-    {  
-      company: "Pragma",
-      duration: "12 Meses",
-      position: "Software Developer",
-      city: "Medellín",
-      country: "Colombia",
-      year: 2022
-    },
-    {
-      company: "Sigma - Branch Blue",
-      duration: "25 Meses",
-      position: "Web Developer",
-      city: "Medellín",
-      country: "Colombia",
-      year: 2020
-    },
-    {
-      company: "PlayTIC",
-      duration: "18 Mses",
-      position: "Full Stack Developer",
-      city: "Pasto",
-      country: "Colombia",
-      year: 2018
-    }
+  rol: "Ingeniero de Software",
+  enfoque: ["Frontend", "Angular", "TypeScript", "Arquitectura Web"],
+  actualmente: "Bancolombia",
+  ubicación: "Colombia 🇨🇴",
+  intereses: [
+    "Arquitectura Frontend",
+    "Microfrontends",
+    "Cloud",
+    "Rendimiento Web",
+    "Experiencia de Desarrollo"
   ]
 };
 ```
+
+## 🛠️ Tecnologías
+
+**Frontend**
+
+`Angular` `TypeScript` `JavaScript` `HTML` `CSS` `RxJS`
+
+**Backend & Cloud**
+
+`Node.js` `AWS` `Docker` `REST APIs`
+
+**Pruebas & Calidad**
+
+`Jest` `Cypress` `Clean Code` `Accesibilidad`
+
+**Herramientas**
+
+`Git` `GitHub Actions` `Azure DevOps` `VS Code`
+
+---
+
+## 🚀 Construyendo
+
+Me interesa convertir ideas en productos reales, desde la primera interfaz hasta la arquitectura que hay detrás.
+
+Algunos de los proyectos e ideas que estoy construyendo y explorando:
+
+- 🌐 **Sitio personal** — portfolio, experimentos e ideas
+- ⚽ **Álbum Social Mundial** — concepto de álbum social de fútbol
+- 📝 **Herramientas Local-first** — explorando experiencias web offline-first
+- ☁️ **Proyectos Cloud** — Laboratorios con AWS
+
+---
+
+## 🧠 Aprendiendo constantemente
+
+Actualmente profundizando en:
+
+**Cloud · Seguridad Web · Rendering · Accesibilidad · Testing · Arquitectura de Software**
+
+---
+
+<p align="center">
+  <sub>Construido con curiosidad, café y mucho <code>git push</code>.</sub>
+</p>
 
 <hr>
 
