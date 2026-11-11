@@ -1,13 +1,13 @@
 <div align="center">
 
 # Fernando Jaramillo
-### `@f3rjara` · Software Engineer
 
-**Build the world by code.**
+### `@f3rjara` · Ingeniero de Software
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-fernando--jaramillo.com-181717?style=flat-square&logo=googlechrome&logoColor=white)](https://fernando-jaramillo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-f3rjara-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f3rjara/)
+**Creando software con propósito. Siempre aprendiendo, siempre evolucionando.**
+
 [![GitHub](https://img.shields.io/badge/GitHub-f3rjara-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/f3rjara)
+[![Portafolio](https://img.shields.io/badge/Portafolio-Visitar-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://fernando-jaramillo.com)
 
 </div>
 
@@ -15,63 +15,57 @@
 
 <table>
 <tr>
-<td width="28%" align="center" valign="middle">
+<td width="38%" align="center" valign="middle">
 
-<img src="https://github.com/f3rjara.png" width="190" alt="Fernando Jaramillo's GitHub avatar" />
+<img src="https://github.com/f3rjara.png" width="170" alt="Avatar de Fernando Jaramillo" />
 
-**Fernando Jaramillo**
-
+**Fernando Jaramillo**  
 Pasto, Colombia 🇨🇴
 
 </td>
-<td valign="top">
+<td valign="middle">
 
-```text
-f3rjara@github
-────────────────────────────────────────
-OS:             Colombia
-Host:           Software Engineer
-Location:       Pasto, Colombia
-Company:        Bancolombia
-Focus:          Frontend Engineering
-
-Expertise:
-  Angular, TypeScript, JavaScript
-  Frontend Architecture
-  Microfrontend Architecture
-  Scalable Web Applications
-  User Experience & Code Quality
-
-Backend & Cloud:
-  Node.js, REST APIs
-  AWS, Docker
-
-Testing & Quality:
-  Jest, Cypress
-  Accessibility, Clean Code
-
-Toolbox:
-  Git, GitHub Actions
-  Azure DevOps, VS Code
-
-Interests:
-  Cloud & Web Security
-  Developer Experience
-  Performance & Accessibility
-  Building useful digital products
-────────────────────────────────────────
-Status:         Always learning. Always building.
-```
+<img src="./assets/f3rjara-ascii.png" width="100%" alt="Retrato de Fernando en arte ASCII" />
 
 </td>
 </tr>
 </table>
 
+```text
+f3rjara@github
+──────────────────────────────────────
+SO:          Colombia
+Rol:         Ingeniero de Software
+Ubicación:   Pasto, Colombia
+Empresa:     Bancolombia
+Enfoque:     Ingeniería Frontend
+
+Especialidades:
+  Angular · TypeScript · JavaScript
+  Arquitectura Frontend y Microfrontends
+  Aplicaciones web escalables
+  Accesibilidad · Calidad de código
+
+Backend y nube:
+  Node.js · APIs REST · AWS · Docker
+
+Herramientas:
+  Git · GitHub Actions · Azure DevOps
+
+Intereses:
+  Experiencia de desarrollo
+  Rendimiento web y accesibilidad
+  IA · Automatización · Código abierto
+
+Estado:      Siempre aprendiendo. Siempre creando.
+──────────────────────────────────────
+```
+
 ## `$ whoami`
 
-I'm a Software Engineer focused on **Frontend Engineering**, **Angular**, and **TypeScript**. I design and build scalable web solutions, bringing together frontend architecture, user experience, and code quality.
+Soy Ingeniero de Software enfocado en **Ingeniería Frontend**, **Angular** y **TypeScript**. Desarrollo aplicaciones web escalables y trabajo en arquitectura frontend, microfrontends, accesibilidad y calidad de código.
 
-I enjoy turning ideas into useful digital products, exploring new technologies, and continuously improving the way software is designed, built, and delivered.
+Me gusta explorar nuevas tecnologías y convertir ideas en productos digitales útiles.
 
 ## `$ tech --stack`
 
@@ -91,33 +85,23 @@ I enjoy turning ideas into useful digital products, exploring new technologies, 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## `$ ls ./projects`
+## `$ ls ./proyectos`
 
-| Project | Description | Stack |
+| Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| [PlayTIC](https://github.com/f3rjara/PlayTIC) | A collection of JavaScript experiments and practical coding tutorials. | JavaScript |
-| [upb-stack](https://github.com/f3rjara/upb-stack) | A subscription form design for a newsletter. | HTML |
-| [angular_app](https://github.com/f3rjara/angular_app) | An Angular application and frontend experimentation space. | TypeScript |
-| [Personal Website](https://fernando-jaramillo.com) | My portfolio, experiments, and ideas. | Web |
-
-I'm also exploring ideas around social digital products, local-first applications, and cloud-based solutions.
+| [PlayTIC](https://github.com/f3rjara/PlayTIC) | Experimentos con JavaScript y tutoriales prácticos de programación. | JavaScript |
+| [upb-stack](https://github.com/f3rjara/upb-stack) | Proyecto de formulario para suscribirse a un boletín. | HTML |
+| [angular_app](https://github.com/f3rjara/angular_app) | Aplicación Angular y experimentos de desarrollo frontend. | TypeScript |
+| [Sitio personal](https://fernando-jaramillo.com) | Mi portafolio, experimentos e ideas. | Web |
 
 ## `$ git stats`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=f3rjara&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="Fernando's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3rjara&layout=compact&hide_border=true&langs_count=8" alt="Most used programming languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=f3rjara&theme=github_dark" width="100%" alt="Resumen del perfil de GitHub" />
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=f3rjara&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
-## `$ git log --activity`
-
-<div align="center">
-
-[![Fernando's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=f3rjara&hide_border=true)](https://github.com/f3rjara)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=f3rjara&theme=github_dark" width="49%" alt="Repositorios por lenguaje" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=f3rjara&theme=github_dark" width="49%" alt="Lenguajes con más commits" />
 
 </div>
 
@@ -128,7 +112,7 @@ I'm also exploring ideas around social digital products, local-first application
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/f3rjara/f3rjara/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/f3rjara/f3rjara/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/f3rjara/f3rjara/output/github-contribution-grid-snake.svg" />
+  <img alt="Animación de la serpiente recorriendo las contribuciones de GitHub" src="https://raw.githubusercontent.com/f3rjara/f3rjara/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -137,8 +121,6 @@ I'm also exploring ideas around social digital products, local-first application
 
 <div align="center">
 
-**`while (alive) { learn(); build(); share(); }`**
-
-*Built with curiosity, coffee, and a lot of `git push`.*
+`// Aprender. Crear. Compartir.`
 
 </div>
