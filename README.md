@@ -1,113 +1,144 @@
-<!---
-f3rjara/f3rjara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
 
-### Hey there!
-<a href="https://discord.gg/kezF8duh" target="_blank" title="Visita mi Discord! | @f3rjara 👋" >
-  <img align="left" alt="Visita mi Discord! | @f3rjara 👋" width="26px" src="https://raw.githubusercontent.com/f3rjara/f3rjara/main/img/discord-v2-svgrepo-com.svg" />
-</a>
+# Fernando Jaramillo
+### `@f3rjara` · Software Engineer
 
-<a href="https://twitter.com/f3rjara" target="_blank" title="Visita mi Twitter! | @f3rjara 👋">
-  <img align="left" alt="Visita mi Twitter! | @f3rjara 👋"  width="26px" src="https://raw.githubusercontent.com/f3rjara/f3rjara/main/img/twitter-svgrepo-com.svg" />
-</a>
+**Build the world by code.**
 
-<a href="https://www.linkedin.com/in/f3rjara/" target="_blank" title="Visita mi Linkedin! | @f3rjara 👋" >
-  <img align="left" alt="Visita mi Linkedin! | @f3rjara 👋"  width="26px" src="https://raw.githubusercontent.com/f3rjara/f3rjara/main/img/linkedin-1-svgrepo-com.svg" />
-</a>
-<a href="https://www.twitch.tv/f3rjara" target="_blank" title="Visita mi Twitch! | @f3rjara 👋">
-  <img align="left" alt="Visita mi Twitch! | @f3rjara 👋"  width="26px" src="https://raw.githubusercontent.com/f3rjara/f3rjara/main/img/twitch-v2-svgrepo-com.svg" />
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-fernando--jaramillo.com-181717?style=flat-square&logo=googlechrome&logoColor=white)](https://fernando-jaramillo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-f3rjara-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f3rjara/)
+[![GitHub](https://img.shields.io/badge/GitHub-f3rjara-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/f3rjara)
 
-<span>![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ff3rjara%2Ff3rjara&label=%C3%9Altimos%20visitantes&countColor=%23d9e3f0&style=plastic&labelStyle=lower)</span>
-<hr>
-
-<h1> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ¡Ey! Me alegro de verte.</h1>
-
-# 👋 Soy Fernando Jaramillo
-
-**Ingeniero de Software · Frontend · Angular**
-
-Construyo experiencias web con especial interés en **arquitectura frontend, experiencia de usuario y calidad de código**.
-
-🇨🇴 Colombia · 🏦 Bancolombia
-
-[🌐 fernando-jaramillo.com](https://fernando-jaramillo.com) · [💼 LinkedIn](https://www.linkedin.com/in/f3rjara/) · [🐙 GitHub](https://github.com/f3rjara)
+</div>
 
 ---
 
-## ⚡ En qué estoy trabajando
+<table>
+<tr>
+<td width="28%" align="center" valign="middle">
 
-```ts
-const f3rjara = {
-  rol: "Ingeniero de Software",
-  enfoque: ["Frontend", "Angular", "TypeScript", "Arquitectura Web"],
-  actualmente: "Bancolombia",
-  ubicación: "Colombia 🇨🇴",
-  intereses: [
-    "Arquitectura Frontend",
-    "Microfrontends",
-    "Cloud",
-    "Rendimiento Web",
-    "Experiencia de Desarrollo"
-  ]
-};
+<img src="https://github.com/f3rjara.png" width="190" alt="Fernando Jaramillo's GitHub avatar" />
+
+**Fernando Jaramillo**
+
+Pasto, Colombia 🇨🇴
+
+</td>
+<td valign="top">
+
+```text
+f3rjara@github
+────────────────────────────────────────
+OS:             Colombia
+Host:           Software Engineer
+Location:       Pasto, Colombia
+Company:        Bancolombia
+Focus:          Frontend Engineering
+
+Expertise:
+  Angular, TypeScript, JavaScript
+  Frontend Architecture
+  Microfrontend Architecture
+  Scalable Web Applications
+  User Experience & Code Quality
+
+Backend & Cloud:
+  Node.js, REST APIs
+  AWS, Docker
+
+Testing & Quality:
+  Jest, Cypress
+  Accessibility, Clean Code
+
+Toolbox:
+  Git, GitHub Actions
+  Azure DevOps, VS Code
+
+Interests:
+  Cloud & Web Security
+  Developer Experience
+  Performance & Accessibility
+  Building useful digital products
+────────────────────────────────────────
+Status:         Always learning. Always building.
 ```
 
-## 🛠️ Tecnologías
+</td>
+</tr>
+</table>
 
-**Frontend**
+## `$ whoami`
 
-`Angular` `TypeScript` `JavaScript` `HTML` `CSS` `RxJS`
+I'm a Software Engineer focused on **Frontend Engineering**, **Angular**, and **TypeScript**. I design and build scalable web solutions, bringing together frontend architecture, user experience, and code quality.
 
-**Backend & Cloud**
+I enjoy turning ideas into useful digital products, exploring new technologies, and continuously improving the way software is designed, built, and delivered.
 
-`Node.js` `AWS` `Docker` `REST APIs`
+## `$ tech --stack`
 
-**Pruebas & Calidad**
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-`Jest` `Cypress` `Clean Code` `Accesibilidad`
+## `$ ls ./projects`
 
-**Herramientas**
+| Project | Description | Stack |
+|---|---|---|
+| [PlayTIC](https://github.com/f3rjara/PlayTIC) | A collection of JavaScript experiments and practical coding tutorials. | JavaScript |
+| [upb-stack](https://github.com/f3rjara/upb-stack) | A subscription form design for a newsletter. | HTML |
+| [angular_app](https://github.com/f3rjara/angular_app) | An Angular application and frontend experimentation space. | TypeScript |
+| [Personal Website](https://fernando-jaramillo.com) | My portfolio, experiments, and ideas. | Web |
 
-`Git` `GitHub Actions` `Azure DevOps` `VS Code`
+I'm also exploring ideas around social digital products, local-first applications, and cloud-based solutions.
+
+## `$ git stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=f3rjara&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="Fernando's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3rjara&layout=compact&hide_border=true&langs_count=8" alt="Most used programming languages" />
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=f3rjara&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+## `$ git log --activity`
+
+<div align="center">
+
+[![Fernando's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=f3rjara&hide_border=true)](https://github.com/f3rjara)
+
+</div>
+
+## `$ ./contribution-snake`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/f3rjara/f3rjara/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/f3rjara/f3rjara/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/f3rjara/f3rjara/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
-## 🚀 Construyendo
+<div align="center">
 
-Me interesa convertir ideas en productos reales, desde la primera interfaz hasta la arquitectura que hay detrás.
+**`while (alive) { learn(); build(); share(); }`**
 
-Algunos de los proyectos e ideas que estoy construyendo y explorando:
+*Built with curiosity, coffee, and a lot of `git push`.*
 
-- 🌐 **Sitio personal** — portfolio, experimentos e ideas
-- ⚽ **Álbum Social Mundial** — concepto de álbum social de fútbol
-- 📝 **Herramientas Local-first** — explorando experiencias web offline-first
-- ☁️ **Proyectos Cloud** — Laboratorios con AWS
-
----
-
-## 🧠 Aprendiendo constantemente
-
-Actualmente profundizando en:
-
-**Cloud · Seguridad Web · Rendering · Accesibilidad · Testing · Arquitectura de Software**
-
----
-
-<p align="center">
-  <sub>Construido con curiosidad, café y mucho <code>git push</code>.</sub>
-</p>
-
-<hr>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img alt="DenverCoder1's streak" src="http://github-readme-streak-stats.herokuapp.com?user=f3rjara&theme=tokyonight_duo"/>
-  </a>  
-</p>
-<p align="center">
-<a href="https://github.com/f3rjara">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=f3rjara&layout=compact&theme=material-palenight" />
-</a>
-</p>
+</div>
