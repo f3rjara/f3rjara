@@ -19,7 +19,7 @@
      <img
         src="https://raw.githubusercontent.com/f3rjara/f3rjara/main/assets/f3rjara_ascii_gris.png"
         width="100%"
-        alt="Retrato ASCII de Fernando Jaramillo en escala de grises"
+        alt="Retrato ASCII de Fernando Jaramillo en escala"
       />
     </td>
     <td width="50%" valign="middle">
