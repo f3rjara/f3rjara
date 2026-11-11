@@ -13,27 +13,16 @@
 
 ---
 
-<table>
-<tr>
-<td width="38%" align="center" valign="middle">
-
-<img src="https://github.com/f3rjara.png" width="170" alt="Avatar de Fernando Jaramillo" />
-
-**Fernando Jaramillo**  
-Pasto, Colombia 🇨🇴
-
-</td>
-<td valign="middle">
-
-<img src="./assets/f3rjara-ascii.png" width="100%" alt="Retrato de Fernando en arte ASCII" />
-
-</td>
-</tr>
-</table>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="./assets/f3rjara-ascii-gris.png" width="100%" alt="Retrato de Fernando Jaramillo en arte ASCII en escala de grises" />
+    </td>
+    <td width="50%" valign="middle">
 
 ```text
 f3rjara@github
-──────────────────────────────────────
+────────────────────────────
 SO:          Colombia
 Rol:         Ingeniero de Software
 Ubicación:   Pasto, Colombia
@@ -42,30 +31,39 @@ Enfoque:     Ingeniería Frontend
 
 Especialidades:
   Angular · TypeScript · JavaScript
-  Arquitectura Frontend y Microfrontends
+  Arquitectura Frontend
+  Microfrontends
   Aplicaciones web escalables
   Accesibilidad · Calidad de código
 
 Backend y nube:
-  Node.js · APIs REST · AWS · Docker
+  Node.js · APIs REST
+  AWS · Docker
 
 Herramientas:
-  Git · GitHub Actions · Azure DevOps
+  Git · GitHub Actions
+  Azure DevOps
 
 Intereses:
   Experiencia de desarrollo
-  Rendimiento web y accesibilidad
-  IA · Automatización · Código abierto
+  Rendimiento y accesibilidad
+  IA · Automatización
+  Código abierto
 
-Estado:      Siempre aprendiendo. Siempre creando.
-──────────────────────────────────────
+Estado:
+  Siempre aprendiendo.
+  Siempre creando.
 ```
+
+    </td>
+  </tr>
+</table>
 
 ## `$ whoami`
 
-Soy Ingeniero de Software enfocado en **Ingeniería Frontend**, **Angular** y **TypeScript**. Desarrollo aplicaciones web escalables y trabajo en arquitectura frontend, microfrontends, accesibilidad y calidad de código.
+Soy Ingeniero de Software enfocado en **Ingeniería Frontend**, **Angular** y **TypeScript**. Diseño y desarrollo soluciones web escalables, combinando arquitectura frontend, experiencia de usuario y calidad de código.
 
-Me gusta explorar nuevas tecnologías y convertir ideas en productos digitales útiles.
+Disfruto explorar nuevas tecnologías, compartir conocimiento y convertir ideas en productos digitales útiles.
 
 ## `$ tech --stack`
 
@@ -90,15 +88,15 @@ Me gusta explorar nuevas tecnologías y convertir ideas en productos digitales �
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
 | [PlayTIC](https://github.com/f3rjara/PlayTIC) | Experimentos con JavaScript y tutoriales prácticos de programación. | JavaScript |
-| [upb-stack](https://github.com/f3rjara/upb-stack) | Proyecto de formulario para suscribirse a un boletín. | HTML |
+| [upb-stack](https://github.com/f3rjara/upb-stack) | Formulario de suscripción para un boletín. | HTML |
 | [angular_app](https://github.com/f3rjara/angular_app) | Aplicación Angular y experimentos de desarrollo frontend. | TypeScript |
-| [Sitio personal](https://fernando-jaramillo.com) | Mi portafolio, experimentos e ideas. | Web |
+| [Portafolio](https://fernando-jaramillo.com) | Mi espacio personal para compartir proyectos, experimentos e ideas. | Web |
 
 ## `$ git stats`
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=f3rjara&theme=github_dark" width="100%" alt="Resumen del perfil de GitHub" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=f3rjara&theme=github_dark" width="100%" alt="Resumen de actividad de GitHub" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=f3rjara&theme=github_dark" width="49%" alt="Repositorios por lenguaje" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=f3rjara&theme=github_dark" width="49%" alt="Lenguajes con más commits" />
