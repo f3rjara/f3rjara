@@ -16,7 +16,7 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img src="./assets/f3rjara-ascii-gris.png" width="100%" alt="Retrato de Fernando Jaramillo en arte ASCII en escala de grises" />
+      <img src="./assets/f3rjara-ascii.png" width="100%" alt="Retrato de Fernando Jaramillo en arte ASCII en escala de grises" />
     </td>
     <td width="50%" valign="middle">
 
